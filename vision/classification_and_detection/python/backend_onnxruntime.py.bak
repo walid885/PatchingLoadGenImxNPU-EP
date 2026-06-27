@@ -6,8 +6,6 @@ onnxruntime backend (https://github.com/microsoft/onnxruntime)
 
 import onnxruntime as rt
 import os
-import platform
-
 import backend
 
 
